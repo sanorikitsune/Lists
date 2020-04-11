@@ -1,0 +1,13 @@
+C:\Users\Sanori\Documents\Учеба\Функциональное программирование\FLLab1\FLLab1\bin\Debug\netcoreapp3.1\FLLab1.exe
+C:\Users\Sanori\Documents\Учеба\Функциональное программирование\FLLab1\FLLab1\bin\Debug\netcoreapp3.1\FLLab1.deps.json
+C:\Users\Sanori\Documents\Учеба\Функциональное программирование\FLLab1\FLLab1\bin\Debug\netcoreapp3.1\FLLab1.runtimeconfig.json
+C:\Users\Sanori\Documents\Учеба\Функциональное программирование\FLLab1\FLLab1\bin\Debug\netcoreapp3.1\FLLab1.runtimeconfig.dev.json
+C:\Users\Sanori\Documents\Учеба\Функциональное программирование\FLLab1\FLLab1\bin\Debug\netcoreapp3.1\FLLab1.dll
+C:\Users\Sanori\Documents\Учеба\Функциональное программирование\FLLab1\FLLab1\bin\Debug\netcoreapp3.1\FLLab1.pdb
+C:\Users\Sanori\Documents\Учеба\Функциональное программирование\FLLab1\FLLab1\obj\Debug\netcoreapp3.1\FLLab1.csprojAssemblyReference.cache
+C:\Users\Sanori\Documents\Учеба\Функциональное программирование\FLLab1\FLLab1\obj\Debug\netcoreapp3.1\FLLab1.csproj.CoreCompileInputs.cache
+C:\Users\Sanori\Documents\Учеба\Функциональное программирование\FLLab1\FLLab1\obj\Debug\netcoreapp3.1\FLLab1.AssemblyInfoInputs.cache
+C:\Users\Sanori\Documents\Учеба\Функциональное программирование\FLLab1\FLLab1\obj\Debug\netcoreapp3.1\FLLab1.AssemblyInfo.cs
+C:\Users\Sanori\Documents\Учеба\Функциональное программирование\FLLab1\FLLab1\obj\Debug\netcoreapp3.1\FLLab1.dll
+C:\Users\Sanori\Documents\Учеба\Функциональное программирование\FLLab1\FLLab1\obj\Debug\netcoreapp3.1\FLLab1.pdb
+C:\Users\Sanori\Documents\Учеба\Функциональное программирование\FLLab1\FLLab1\obj\Debug\netcoreapp3.1\FLLab1.genruntimeconfig.cache
